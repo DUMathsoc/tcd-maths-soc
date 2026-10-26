@@ -3,6 +3,10 @@ body, h1, h2, h3, p, ul {
   margin: 0;
   padding: 0;
 }
+.JaneStreet{
+width: 50%;
+height: 100%;
+}
 #paperbackground {
   position: fixed;
   top: 0px;
